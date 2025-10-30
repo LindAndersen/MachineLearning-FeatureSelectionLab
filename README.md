@@ -31,6 +31,8 @@ To install the data preparation package, run the following command in your termi
 pip install dataprepper-0.1.0-py3-none-any.whl
 ```
 
+Please feel free to contact us if you encounter any problems using the package.
+
 ## Datasets
 
 1. **Pima Indians Diabetes Dataset**: A dataset for diabetes prediction among Pima Indians.

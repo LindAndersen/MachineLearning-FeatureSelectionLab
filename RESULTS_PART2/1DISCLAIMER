@@ -1,0 +1,4 @@
+The code in this folder is NOT clean. It is written fast and not really good.
+The most important information we gain from this folder are the actual results, showing which features affect the
+model's performance in which ways.
+So please don't feel insulted by the bad and unfitted variable names and messy structure.
